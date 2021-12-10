@@ -30,7 +30,8 @@ class MainActivity : ComponentActivity() {
                         "Text Ke-1",
                         modifier = Modifier.align(Alignment.CenterHorizontally)
                     )
-                    Text("Text Ke-2",
+                    Text(
+                        "Text Ke-2",
                         modifier = Modifier.align(Alignment.CenterHorizontally)
                     )   //Text ALignment
                 }
