@@ -18,7 +18,7 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun ScaffoldExample(){
-    val materialBlue700 = Color(0xFF1976D2)
+    val materialBlue700 = Color(0xFF0080FF)
     Scaffold(
         topBar = {
             TopAppBar(
